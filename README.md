@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8c/01/25/8c01250cd148c82580ceb5b7603b9db6.gif" alt="banner gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dloorah&label=Profile%20views&color=0e75b6&style=flat" alt="dloorah profile views" />
+</p>
+
+---
+
 # 👋 Hi, I'm Harold Cereno
 
 Welcome to my GitHub! I'm an aspiring **Fullstack Developer** passionate about creating useful and user-friendly applications. I'm currently pursuing my degree in **Information Technology** and constantly learning to grow my skills in development and networking.

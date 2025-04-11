@@ -1,33 +1,28 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dloorah&label=Profile%20views&color=0e75b6&style=flat" alt="dloorah" />
-</p>
+# 👋 Hi, I'm Harold Cereno
 
-# 🚀 About Me
-
-I'm a passionate **Fullstack Developer** currently focusing on building seamless and scalable web applications. I enjoy working on both the frontend and backend, transforming ideas into functional, responsive, and user-friendly experiences. From UI/UX to API integrations and databases—I'm all in.
+Welcome to my GitHub! I'm an aspiring **Fullstack Developer** passionate about creating useful and user-friendly applications. I'm currently pursuing my degree in **Information Technology** and constantly learning to grow my skills in development and networking.
 
 ---
 
-# 📊 GitHub Stats
+## 💡 About Me
 
-<p align="center">
-  <a href="https://github.com/dloorah">
-    <img src="https://github-readme-stats.vercel.app/api?username=dloorah&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450" />
-  </a>
-  <a href="https://github.com/dloorah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dloorah&theme=jolly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380" />
-  </a>
-  <a href="https://github.com/dloorah">
-    <img src="https://github-profile-trophy.vercel.app/?username=dloorah&theme=darkhub" width="820" />
-  </a>
-</p>
+- 🎓 IT Student with a passion for technology and problem-solving  
+- 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/harold-cereno) • [Portfolio](https://minjeong.vercel.app/)
 
 ---
 
-# 🔥 Most Used Languages
+## 🚀 Tech Stack
 
-<p align="center">
-  <a href="https://github.com/dloorah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dloorah&langs_count=14&show_icons=true&locale=en&layout=compact&theme=jolly" width="470px" alt="Most Used Languages" />
-  </a>
-</p>
+**Languages & Tools**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Harold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dloorah&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dloorah&layout=compact&theme=tokyonight)

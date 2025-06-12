@@ -24,8 +24,7 @@ BSIT student with a focus on full-stack development.
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dloorah/dloorah/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/dloorah/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-

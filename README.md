@@ -22,4 +22,10 @@ BSIT student with a focus on full-stack development.
   </a>
 </p>
 
+<h1>🐍 Contribution Snake</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dloorah/dloorah/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

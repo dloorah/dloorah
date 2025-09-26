@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dloorah&label=Profile%20views&color=0e75b6&style=flat" alt="dloorah" />
 <p align="center">
   <img src="https://i.pinimg.com/originals/18/3f/b7/183fb7dc262236a6d33603cf53b3759b.gif" width="100%" alt="background gif"/>
 </p>

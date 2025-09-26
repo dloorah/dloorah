@@ -1,10 +1,18 @@
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dloorah&label=Profile%20views&color=0e75b6&style=flat" alt="dloorah" /> 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c2/6d/aa/c26daa2ae4020e5ae62e841896b09fad.gif" width="100%" alt="background gif"/>
 </p>
 
-<h1>🚀 About Me </h1>
+<!-- About Me (left aligned) -->
+<div align="left">
+  <h1>🚀 About Me</h1>
+  <p>BSIT student with a focus on full-stack development.</p>
+</div>
 
-BSIT student with a focus on full-stack development.
+<h1>⚡ Tech Stack </h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,mongodb,supabase,git,html,css" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -21,6 +29,3 @@ BSIT student with a focus on full-stack development.
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=dloorah&theme=darkhub" width="820"/>
   </a>
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
